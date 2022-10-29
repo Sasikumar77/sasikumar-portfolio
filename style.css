@@ -1,13 +1,89 @@
+body {
+	 background-image: url('img/cover-image.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align:center;
+}
 p {
-
+font-size:20px
 }
 h1 {text-shadow: -2px 2px #41ecfa;
- font-size: 40px;
+ font-size: 50px;
+ text-align: center;
+  border-radius:20px;
+  border-width:10px;
+  background:yellow;
+  width:500px;
+ margin-left:500px;
+ 
+ 
 }
 ul{
   font-family: cursive;
   font-size: 20px;
-  background: rgb(39, 244, 244);
+  background-color: rgb(245, 232, 12);
+  border-radius:20px;
+  border-width:10px;
+  text-align:left;
+ width:350px; 
+ margin:25px;
+ margin-left:520px;
+ box-shadow: 10px 10px rgb(169, 168, 165);
+ padding-top:2%;
+ 
+}
+h3{
+	font-size:30px;
+	margin-top:15%;
+	border-style:double;
+	border-color:rgb(242, 230, 27);
+	border-radius:40px;
+	border-width:10px;
+	width:400px;
+	margin-left:35%;
+}
+ img{
+	
   
   
 }
+h2{
+	margin-top:10%;
+	margin-bottom:10%;
+	font-size:250%;
+	border-style:solid;
+	border-color:rgb(242, 230, 27);
+	border-radius:40px;
+	border-width:10px;
+	width:500px;
+	margin-left:30%;
+	text-shadow:2px -2px rgb(169, 168, 165);
+	
+	
+}
+h3{
+	
+}
+
+.mov{
+margin:5%;
+border-style:solid;
+border-width:7.5px;
+border-color:rgb(242, 230, 27);
+border-radius:10%;
+}
+.mo{
+	margin:5%;
+border-style:solid;
+border-width:7.5px;
+border-color:rgb(242, 230, 27);
+border-radius:10%;
+}
+h4{
+	font-size:25px;
+margin-bottom:5%;
+}
+
+
+ 
